@@ -7,3 +7,4 @@
 * Gradle 2.9
 
 1. [헬로우월드 메이븐 버전](https://github.com/lky1001/SpringBootTutorial/tree/01_maven_tutorial)
+2. [헬로우월드 그래들 버전](https://github.com/lky1001/SpringBootTutorial/tree/01_gradle_tutorial)
