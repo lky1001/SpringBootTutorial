@@ -1,7 +1,8 @@
 # SpringBootTutorial
 ## 스프링부트 튜토리얼
+### 이 예제는 스프링부트 1.4를 기준으로 작성되었습니다.
 
-* 참조 : http://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/#getting-started-introducing-spring-boot
+* 참조 : [스프링부트 1.4 메뉴얼](http://docs.spring.io/spring-boot/docs/1.4.0.RELEASE/reference/htmlsingle)
 * [IntelliJ 15](https://www.jetbrains.com/idea)
 * [JAVA 1.8.0](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
 * [Gradle 2.9](https://gradle.org)
