@@ -9,5 +9,5 @@
 
 1. [헬로우월드 메이븐 버전](https://github.com/lky1001/SpringBootTutorial/tree/01_maven_tutorial)
 2. [헬로우월드 그래들 버전](https://github.com/lky1001/SpringBootTutorial/tree/01_gradle_tutorial)
-3. [헬로우월드 따라하기](http://lky1001.tistory.com/143)
+3. [헬로우월드 따라하기](http://lky1001.tistory.com/163)
 4. [헬로우월드 설명](http://lky1001.tistory.com/167)
